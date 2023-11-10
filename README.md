@@ -36,8 +36,11 @@ In my spare time, I like to play football, chess or walk in the countryside. I a
 <img align="left" alt="woocommerce" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-plain.svg" />
 <br><br>
 <h3>📈 GitHub Stats & Trophies</h3>
-![Dimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimoPeevski&show_icons=true&hide_border=true)
-![Dimo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DimoPeevski&layout=compact)
+
+![Dimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimoPeevski&show_icons=true&hide_border=true) ![Dimo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DimoPeevski&layout=compact)
 <br><br>
-![Dimo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DimoPeevski)
-<br><br>
+
+![Dimo's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DimoPeevski&column=8)
+
+
+
