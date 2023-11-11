@@ -29,21 +29,19 @@ All my contact details are available on my personal website ⇢ <a href="https:/
 In my spare time, I like to play football, chess or walk in the countryside. I also enjoy playing computer games and spending time in a pleasant company with friends from whom I can learn something new.
 <br><br>
 <h3>🖥️ Platforms and Instruments</h3>
-<a href="#"><img align="left" alt="csharp" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp.png"/></a>
-<a href="#"><img align="left" alt="html" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/html5.png"/></a>
-<a href="#"><img align="left" alt="css" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/css3.png"/></a>
-<a href="#"><img align="left" alt="photoshop" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/photoshop.png"/></a>
-
-<a href="#"><img align="left" alt="visualstudio" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/visualstudio.png"/></a>
-<a href="#"><img align="left" alt="vscode" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/vscode.png"/></a>
-<a href="#"><img align="left" alt="git" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/git.png"/></a>
-<a href="#"><img align="left" alt="github" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/github.png"/></a>
-
-<a href="#"><img align="left" alt="mssql" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/mssqlserver.png"/></a>
-<a href="#"><img align="left" alt="shopify" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/shopify.png"/></a>
-<a href="#"><img align="left" alt="wordpress" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/wordpress.png"/></a>
-<a href="#"><img align="left" alt="woocommerce" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/woocommerce.png"/></a>
-<br><br><br>
+<div><a href="#"><img align="left" alt="csharp" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp.png"/></a> 
+<a href="#"><img align="left" alt="html" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/html5.png"/></a> 
+<a href="#"><img align="left" alt="css" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/css3.png"/></a>  
+<a href="#"><img align="left" alt="photoshop" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/photoshop.png"/> 
+<a href="#"><img align="left" alt="visualstudio" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/visualstudio.png"/></a>  
+<a href="#"><img align="left" alt="vscode" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/vscode.png"/></a> 
+<a href="#"><img align="left" alt="git" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/git.png"/></a> 
+<a href="#"><img align="left" alt="github" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/github.png"/></a> 
+<a href="#"><img align="left" alt="mssql" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/mssqlserver.png"/></a> 
+<a href="#"><img align="left" alt="shopify" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/shopify.png"/></a> 
+<a href="#"><img align="left" alt="wordpress" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/wordpress.png"/></a> 
+<a href="#"><img align="left" alt="woocommerce" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/woocommerce.png"/></a> </div>
+<br><br><br><br><br>
 <h3>📈 GitHub Stats & Trophies</h3>
 
 ![Dimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimoPeevski&show_icons=true&hide_border=true) ![Dimo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DimoPeevski&layout=compact)
