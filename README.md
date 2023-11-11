@@ -33,12 +33,12 @@ In my spare time, I like to play football, chess or walk in the countryside. I a
 <a href="#"><img align="left" alt="html" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/html5.png"/></a>
 <a href="#"><img align="left" alt="css" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/css3.png"/></a>
 <a href="#"><img align="left" alt="photoshop" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/photoshop.png"/></a>
-<br><br>
+
 <a href="#"><img align="left" alt="visualstudio" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/visualstudio.png"/></a>
 <a href="#"><img align="left" alt="vscode" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/vscode.png"/></a>
 <a href="#"><img align="left" alt="git" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/git.png"/></a>
 <a href="#"><img align="left" alt="github" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/github.png"/></a>
-<br><br>
+
 <a href="#"><img align="left" alt="mssql" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/mssqlserver.png"/></a>
 <a href="#"><img align="left" alt="shopify" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/shopify.png"/></a>
 <a href="#"><img align="left" alt="wordpress" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/wordpress.png"/></a>
