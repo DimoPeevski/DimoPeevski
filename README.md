@@ -6,14 +6,14 @@ I am a web developer and designer based in Europe who loves "turning concepts in
 ⁍ My blog ⇢ <a href="https://www.peevski.dev/blog">Peevski.Dev/Blog</a><br>
 <h3>✍🏻 Education</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - Present) - C# .NET Web Developer 👇 <br><br>
-<a href="https://softuni.bg/certificates/details/185603/6810fdbc"><img align="center" alt="mssql-db" width="180px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/mssql-db.png"/></a>
-<a href="https://softuni.bg/certificates/details/181073/faea0804"><img align="center" alt="csharp-oop" width="180px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-oop.png"/></a>
-<a href="https://softuni.bg/certificates/details/173533/61b8e22b"><img align="center" alt="csharp-advanced" width="180px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-advanced.png"/></a>
-<a href="https://softuni.bg/certificates/details/167055/7b00b8e6"><img align="center" alt="csharp-fundamentals" width="180px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-fundamentals.png"/></a>
+<a href="https://softuni.bg/certificates/details/185603/6810fdbc"><img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/mssql-db.png"/></a>
+<a href="https://softuni.bg/certificates/details/181073/faea0804"><img align="center" alt="csharp-oop" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-oop.png"/></a>
+<a href="https://softuni.bg/certificates/details/173533/61b8e22b"><img align="center" alt="csharp-advanced" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-advanced.png"/></a>
+<a href="https://softuni.bg/certificates/details/167055/7b00b8e6"><img align="center" alt="csharp-fundamentals" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-fundamentals.png"/></a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ European Higher School of Economics and Management, Bulgaria, EU (2012 - 2016) - Bachelor's degree, Marketing 👇 <br><br>
-<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1-full-hd.pdf"><img align="center" alt="diploma-page-1" width="180px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1.png"/></a>
-<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2-full-hd.pdf"><img align="center" alt="diploma-page-2" width="180px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2.png"/></a>
+<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1-full-hd.pdf"><img align="center" alt="diploma-page-1" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1.png"/></a>
+<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2-full-hd.pdf"><img align="center" alt="diploma-page-2" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2.png"/></a>
 <br><br>
 <h3>💼 Work</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Codix (2022 - Present) - Data Processing and Variable Data Specialist<br>
