@@ -30,7 +30,7 @@ In my spare time, I like to play football, chess or walk in the countryside. I a
 <img align="left" alt="git" width="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/git.png" />
 <img align="left" alt="github" width="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/github.png" />
 <img align="left" alt="mssql" width="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/mssqlserver.png" />
-<img align="left" alt="shopify" width="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/shopify.png"/>
+<img align="left" alt="shopify" width="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/shopify.png" />
 <img align="left" alt="wordpress" width="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/wordpress.png" />
 <img align="left" alt="woocommerce" width="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/woocommerce.png" />
 <br><br>
