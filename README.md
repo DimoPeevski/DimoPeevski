@@ -6,10 +6,10 @@ I am a web developer and designer based in Europe who loves "turning concepts in
 ⁍ My blog ⇢ <a href="https://www.peevski.dev/blog" target="_blank">Peevski.Dev/Blog</a><br>
 <h3>✍🏻 Education</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - Present) - C# .NET Web Developer 👇 <br><br>
-<a href="https://softuni.bg/certificates/details/185603/6810fdbc" target="_blank"><img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-mssql-db.png"/></a>
-<a href="https://softuni.bg/certificates/details/181073/faea0804" target="_blank"><img align="center" alt="csharp-oop" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-oop.png"/></a>
-<a href="https://softuni.bg/certificates/details/173533/61b8e22b" target="_blank"><img align="center" alt="csharp-advanced" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-advanced.png"/></a>
-<a href="https://softuni.bg/certificates/details/167055/7b00b8e6" target="_blank"><img align="center" alt="csharp-fundamentals" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-fundamentals.png"/></a>
+<a href="https://softuni.bg/certificates/details/185603/6810fdbc" target="_blank"><img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-mssql-4.png"/></a>
+<a href="https://softuni.bg/certificates/details/181073/faea0804" target="_blank"><img align="center" alt="csharp-oop" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-oop-3.png"/></a>
+<a href="https://softuni.bg/certificates/details/173533/61b8e22b" target="_blank"><img align="center" alt="csharp-advanced" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-advanced-2.png"/></a>
+<a href="https://softuni.bg/certificates/details/167055/7b00b8e6" target="_blank"><img align="center" alt="csharp-fundamentals" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-fundamentals-1.png"/></a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ European Higher School of Economics and Management, Bulgaria, EU (2012 - 2016) - Bachelor's degree, Marketing 👇 <br><br>
 <a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1-full-hd.pdf" target="_blank"><img align="center" alt="diploma-page-1" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1.png"/></a>
