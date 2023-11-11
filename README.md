@@ -3,17 +3,17 @@ Hi, I'm Dimo Peevski!
 <br><br>
 I am a web developer and designer based in Europe who loves "turning concepts into digital masterpieces.". I specialize in making sleek Shopify stores and dynamic WordPress projects. Let's team up and create something awesome together!
 <br><br>
-⁍ My blog ⇢ <a href="https://www.peevski.dev/blog">Peevski.Dev/Blog</a><br>
+⁍ My blog ⇢ <a href="https://www.peevski.dev/blog" target="_blank">Peevski.Dev/Blog</a><br>
 <h3>✍🏻 Education</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - Present) - C# .NET Web Developer 👇 <br><br>
-<a href="https://softuni.bg/certificates/details/185603/6810fdbc"><img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/mssql-db.png"/></a>
-<a href="https://softuni.bg/certificates/details/181073/faea0804"><img align="center" alt="csharp-oop" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-oop.png"/></a>
-<a href="https://softuni.bg/certificates/details/173533/61b8e22b"><img align="center" alt="csharp-advanced" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-advanced.png"/></a>
-<a href="https://softuni.bg/certificates/details/167055/7b00b8e6"><img align="center" alt="csharp-fundamentals" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-fundamentals.png"/></a>
+<a href="https://softuni.bg/certificates/details/185603/6810fdbc" target="_blank"><img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-mssql-db.png"/></a>
+<a href="https://softuni.bg/certificates/details/181073/faea0804" target="_blank"><img align="center" alt="csharp-oop" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-oop.png"/></a>
+<a href="https://softuni.bg/certificates/details/173533/61b8e22b" target="_blank"><img align="center" alt="csharp-advanced" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-advanced.png"/></a>
+<a href="https://softuni.bg/certificates/details/167055/7b00b8e6" target="_blank"><img align="center" alt="csharp-fundamentals" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-fundamentals.png"/></a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ European Higher School of Economics and Management, Bulgaria, EU (2012 - 2016) - Bachelor's degree, Marketing 👇 <br><br>
-<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1-full-hd.pdf"><img align="center" alt="diploma-page-1" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1.png"/></a>
-<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2-full-hd.pdf"><img align="center" alt="diploma-page-2" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2.png"/></a>
+<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1-full-hd.pdf" target="_blank"><img align="center" alt="diploma-page-1" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1.png"/></a>
+<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2-full-hd.pdf" target="_blank"><img align="center" alt="diploma-page-2" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2.png"/></a>
 <br><br>
 <h3>💼 Work</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Codix (2022 - Present) - Data Processing and Variable Data Specialist<br>
@@ -22,7 +22,7 @@ I am a web developer and designer based in Europe who loves "turning concepts in
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Cultural Exchange Work & Travel Program USA (2012 - 2013) - Miami, Florida
 <br><br>
 <h2>Get in Touch 📧</h2>
-All my contact details are available on my personal website ⇢ <a href="https://www.peevski.dev/contact">Peevski.Dev/Contact</a>
+All my contact details are available on my personal website ⇢ <a href="https://www.peevski.dev/contact" target="_blank">Peevski.Dev/Contact</a>
 <br><br>
 <h2>More about me 👦</h2>
 <h3>⚽ Hobbies and Interests</h3>
