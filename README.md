@@ -1,7 +1,7 @@
 <h2>Bio & History 👋</h2>
 Hi, I'm Dimo Peevski!
 <br><br>
-I am a web developer and designer based in Europe who loves "turning concepts into digital masterpieces". I specialize in making sleek Shopify stores and dynamic WordPress projects. Let's team up and create something awesome together!
+Hey there, I'm Dimo, a web designer and developer based in Europe. I specialize in creating fast, stunning websites on Shopify and WordPress. I'm skilled at boosting online visibility and building sites that match your vision. Let's team up to create the perfect website for you and your visitors!
 <br><br>
 ⁍ My blog ⇢ <a href="https://www.peevski.dev/blog" target="_blank">Peevski.Dev/Blog</a><br>
 <h3>✍🏻 Education</h3>
