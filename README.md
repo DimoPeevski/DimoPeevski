@@ -6,14 +6,14 @@ Hey there, I'm Dimo, a web designer and developer based in Europe. I specialize 
 ⁍ My blog ⇢ <a href="https://www.peevski.dev/blog" target="_blank">Peevski.Dev/Blog</a><br>
 <h3>✍🏻 Education</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - Present) - C# .NET Web Developer 👇 <br><br>
-<a href="https://softuni.bg/certificates/details/185603/6810fdbc" target="_blank"><img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-mssql-4.png"/></a>
-<a href="https://softuni.bg/certificates/details/181073/faea0804" target="_blank"><img align="center" alt="csharp-oop" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-oop-3.png"/></a>
-<a href="https://softuni.bg/certificates/details/173533/61b8e22b" target="_blank"><img align="center" alt="csharp-advanced" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-advanced-2.png"/></a>
-<a href="https://softuni.bg/certificates/details/167055/7b00b8e6" target="_blank"><img align="center" alt="csharp-fundamentals" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp-fundamentals-1.png"/></a>
+<a href="https://softuni.bg/certificates/details/185603/6810fdbc" target="_blank"><img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/csharp-mssql-4.png"/></a>
+<a href="https://softuni.bg/certificates/details/181073/faea0804" target="_blank"><img align="center" alt="csharp-oop" width="150px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/csharp-oop-3.png"/></a>
+<a href="https://softuni.bg/certificates/details/173533/61b8e22b" target="_blank"><img align="center" alt="csharp-advanced" width="150px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/csharp-advanced-2.png"/></a>
+<a href="https://softuni.bg/certificates/details/167055/7b00b8e6" target="_blank"><img align="center" alt="csharp-fundamentals" width="150px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/csharp-fundamentals-1.png"/></a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ European Higher School of Economics and Management, Bulgaria, EU (2012 - 2016) - Bachelor's degree, Marketing 👇 <br><br>
-<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1-full-hd.pdf" target="_blank"><img align="center" alt="diploma-page-1" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-1.png"/></a>
-<a href="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2-full-hd.pdf" target="_blank"><img align="center" alt="diploma-page-2" width="150px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/diploma-page-2.png"/></a>
+<a href="https://www.peevski.dev/wp-content/uploads/external/github-icons/diploma-page-1-full-hd.pdf" target="_blank"><img align="center" alt="diploma-page-1" width="150px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/diploma-page-1.png"/></a>
+<a href="https://www.peevski.dev/wp-content/uploads/external/github-icons/diploma-page-2-full-hd.pdf" target="_blank"><img align="center" alt="diploma-page-2" width="150px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/diploma-page-2.png"/></a>
 <br><br>
 <h3>💼 Work</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Codix (2022 - Present) - Data Processing and Variable Data Specialist<br>
@@ -29,18 +29,18 @@ All my contact details are available on my website ⇢ <a href="https://www.peev
 In my spare time, I like to play football, chess or walk in the countryside. I also enjoy playing computer games and spending time in a pleasant company with friends from whom I can learn something new.
 <br><br>
 <h3>🖥️ Platforms and Instruments</h3>
-<div><a href="#"><img align="left" alt="csharp" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/csharp.png"/></a> 
-<a href="#"><img align="left" alt="html" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/html5.png"/></a> 
-<a href="#"><img align="left" alt="css" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/css3.png"/></a>  
-<a href="#"><img align="left" alt="photoshop" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/photoshop.png"/> 
-<a href="#"><img align="left" alt="visualstudio" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/visualstudio.png"/></a>  
-<a href="#"><img align="left" alt="vscode" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/vscode.png"/></a> 
-<a href="#"><img align="left" alt="git" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/git.png"/></a> 
-<a href="#"><img align="left" alt="github" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/github.png"/></a> 
-<a href="#"><img align="left" alt="mssql" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/mssqlserver.png"/></a> 
-<a href="#"><img align="left" alt="shopify" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/shopify.png"/></a> 
-<a href="#"><img align="left" alt="wordpress" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/wordpress.png"/></a> 
-<a href="#"><img align="left" alt="woocommerce" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/warezzz/github-icons/woocommerce.png"/></a> </div>
+<div><a href="#"><img align="left" alt="csharp" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/csharp.png"/></a> 
+<a href="#"><img align="left" alt="html" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/html5.png"/></a> 
+<a href="#"><img align="left" alt="css" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/css3.png"/></a>  
+<a href="#"><img align="left" alt="photoshop" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/photoshop.png"/> 
+<a href="#"><img align="left" alt="visualstudio" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/visualstudio.png"/></a>  
+<a href="#"><img align="left" alt="vscode" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/vscode.png"/></a> 
+<a href="#"><img align="left" alt="git" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/git.png"/></a> 
+<a href="#"><img align="left" alt="github" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/github.png"/></a> 
+<a href="#"><img align="left" alt="mssql" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/mssqlserver.png"/></a> 
+<a href="#"><img align="left" alt="shopify" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/shopify.png"/></a> 
+<a href="#"><img align="left" alt="wordpress" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/wordpress.png"/></a> 
+<a href="#"><img align="left" alt="woocommerce" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external/github-icons/woocommerce.png"/></a> </div>
 <br><br><br><br><br>
 <h3>📈 GitHub Stats & Trophies</h3>
 
