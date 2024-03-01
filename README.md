@@ -10,7 +10,7 @@ Hey there, I'm Dimo, a web designer and developer based in Europe. I specialize 
 <a href="https://softuni.bg/certificates/details/185603/6810fdbc" target="_blank"><img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-mssql-4.png"/></a>
 <a href="https://softuni.bg/certificates/details/181073/faea0804" target="_blank"><img align="center" alt="csharp-oop" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-oop-3.png"/></a>
 <a href="https://softuni.bg/certificates/details/173533/61b8e22b" target="_blank"><img align="center" alt="csharp-advanced" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-advanced-2.png"/></a>
-<br><br>
+<br>
 <a href="https://softuni.bg/certificates/details/167055/7b00b8e6" target="_blank"><img align="center" alt="csharp-fundamentals" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-fundamentals-1.png"/></a>
 <a href="https://softuni.bg/Certificates/Details/145896/699f5318" target="_blank"><img align="center" alt="csharp-basics" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-basics.png"/></a>
 <a href="https://softuni.bg/Certificates/Details/198822/045ad402" target="_blank"><img align="center" alt="it-career-booster" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/it-career-booster.png"/></a>
