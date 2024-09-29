@@ -23,7 +23,7 @@ Hey there, I'm Dimo, a web designer and developer based in Europe. I specialize 
 <h3>💼 Work</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Codix (2022 - Present) - Data Processing and Variable Data Specialist<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ UniCredit Bulbank (2020 - 2022) - Banking Specialist<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ A1 Bulgaria (2016 - 2020) - Sales Specialist<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ A1 Bulgaria (2016 - 2020) - Marketing and Sales Specialist<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Cultural Exchange Work & Travel Program USA (2012 - 2013) - Miami, Florida
 <br><br>
 <h2>Get in Touch 📧</h2>
