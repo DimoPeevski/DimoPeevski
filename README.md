@@ -5,7 +5,7 @@ Hey there, I'm Dimo, a web designer and developer based in Europe. I specialize 
 <br><br>
 ⁍ My blog ⇢ <a href="https://www.peevski.dev/blog" target="_blank">Peevski.Dev/Blog</a><br>
 <h3>✍🏻 Education</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - Present) - C# .NET Web Developer 👇 <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - 2025) - C# .NET Web Developer 👇 <br><br>
 <a href="https://softuni.bg/Certificates/Details/215090/469ea727" target="_blank"><img align="center" alt="asp-dotnet-adv" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-asp-dotnet-advanced.png"/></a>
 <a href="https://softuni.bg/Certificates/Details/206844/0e0581af" target="_blank"><img align="center" alt="asp-dotnet" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-asp-dotnet-fundamentals.png"/></a>
 <a href="https://softuni.bg/certificates/details/185603/6810fdbc" target="_blank"><img align="center" alt="mssql-db" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp-mssql-4.png"/></a>
