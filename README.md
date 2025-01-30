@@ -13,7 +13,7 @@ Hey there, I'm Dimo, a web designer and developer based in Europe. I specialize 
 <a href="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/diploma-page-1-full-hd.pdf" target="_blank"><img align="center" alt="diploma-page-1" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/diploma-page-1.png"/></a>
 <a href="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/diploma-page-2-full-hd.pdf" target="_blank"><img align="center" alt="diploma-page-2" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/diploma-page-2.png"/></a>
 <br><br>
-⁍ View all certificates and dimplomas here ⇢ <a href="https://www.peevski.dev/about" target="_blank">Peevski.Dev/About</a><br>
+⁍ View all certificates and diplomas here ⇢ <a href="https://www.peevski.dev/about" target="_blank">Peevski.Dev/About</a><br>
 <br><br>
 <h3>💼 Work</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Codix (2022 - Present) - Data Processing and Variable Data Specialist<br>
