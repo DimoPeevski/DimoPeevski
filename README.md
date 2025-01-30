@@ -5,7 +5,7 @@ Hey there, I'm Dimo, a web designer and developer based in Europe. I specialize 
 <br><br>
 ⁍ My blog ⇢ <a href="https://www.peevski.dev/blog" target="_blank">Peevski.Dev/Blog</a><br>
 <h3>✍🏻 Education</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - 2025) - C# .NET Web Developer 👇 <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - 2025) - Back-End Software Engineer with C# 👇 <br><br>
 <a href="https://softuni.bg/Certificates/details/234870/281947bb" target="_blank"><img align="center" alt="diploma-softuni-page-1" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/diploma-softuni-page-1.png"/></a>
 <a href="https://softuni.bg/certificates/details/234870/281947bb" target="_blank"><img align="center" alt="diploma-softuni-page-2" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/diploma-softuni-page-2.png"/></a>
 <br><br>
