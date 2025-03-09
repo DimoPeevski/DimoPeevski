@@ -29,7 +29,8 @@ All my contact details are available on my website ⇢ <a href="https://www.peev
 In my spare time, I like to play football, chess or walk in the countryside. I also enjoy playing computer games and spending time in a pleasant company with friends from whom I can learn something new.
 <br><br>
 <h3>🖥️ Platforms and Instruments</h3>
-<div><a href="#"><img align="left" alt="csharp" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp.png"/></a> 
+<div>
+<a style="border-radius: 10px;" href="#"><img align="left" alt="csharp" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/csharp.png"/></a> 
 <a href="#"><img align="left" alt="html" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/html5.png"/></a> 
 <a href="#"><img align="left" alt="css" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/css3.png"/></a>  
 <a href="#"><img align="left" alt="photoshop" width="40px" height="40px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/photoshop.png"/> 
