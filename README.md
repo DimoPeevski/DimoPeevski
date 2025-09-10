@@ -3,7 +3,7 @@ Hi, I'm Dimo Peevski!
 <br><br>
 Hey there, I'm Dimo, a web designer and developer based in Europe. I specialize in creating fast, stunning websites on Shopify and WordPress. I'm skilled at boosting online visibility and building sites that match your vision. Let's team up to create the perfect website for you and your visitors!
 <br><br>
-⁍ My blog ⇢ <a href="https://www.peevski.dev/blog" target="_blank">Peevski.Dev/Blog</a><br>
+⁍ My blog ⇢ <a href="https://www.peevski.eu/blog" target="_blank">Peevski.Eu/Blog</a><br>
 <h3>✍🏻 Education</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◙ Software University, Bulgaria, EU (2022 - 2025) - Back-End Software Engineer with C# 👇 <br><br>
 <a href="https://softuni.bg/Certificates/details/234870/281947bb" target="_blank"><img align="center" alt="diploma-softuni-page-1" width="150px" src="https://www.peevski.dev/wp-content/uploads/external-uploads/github-icons/diploma-softuni-page-1.png"/></a>
